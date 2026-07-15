@@ -1,0 +1,15 @@
+{
+  "extends": "../web/tsconfig.json",
+  "compilerOptions": {
+    "types": ["vitest/globals", "vite/client"],
+    "noEmit": true
+  },
+  "include": [
+    "./**/*.ts",
+    "../src/api.ts",
+    "../src/openapi.ts",
+    "../src/domain/**/*.ts",
+    "../src/rpc/**/*.ts",
+    "../src/shared/**/*.ts"
+  ]
+}
