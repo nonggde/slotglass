@@ -7,7 +7,7 @@
 - [x] Fixture, domain, and route tests
 - [x] Architecture and security-boundary documentation
 - [x] Production Cloudflare URL: https://slotglass.a13553776411.workers.dev
-- [ ] Public `nonggde/slotglass` GitHub repository
+- [x] Public GitHub repository: https://github.com/nonggde/slotglass
 - [ ] Reviewer demo video
 - [ ] Ten reproducible production inspections
 
