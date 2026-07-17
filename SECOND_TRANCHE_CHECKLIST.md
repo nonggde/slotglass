@@ -14,6 +14,8 @@
 ## Required external evidence
 
 - [ ] Colosseum project page link
+  - Status checked 2026-07-17: GitHub OAuth resolves to existing incomplete profile `@dasdas33`.
+  - Both `Hackathon` and `Eternal` are marked `Paused`; the Arena exposes project browsing but no project creation entry.
 - [ ] AI coding subscription receipt or receipts totaling $200
 
 The Colosseum link and $200 receipt evidence are explicit second-tranche requirements. They must not be represented as complete until the real external records exist.
