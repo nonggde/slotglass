@@ -50,7 +50,7 @@ curl "https://slotglass.a13553776411.workers.dev/api/inspect?network=mainnet-bet
 - Commitment: `confirmed`
 - Supported networks: `mainnet-beta`, `devnet`
 
-See [docs/API.md](docs/API.md) for field semantics and error behavior.
+See [docs/API.md](docs/API.md) for field semantics and error behavior. [docs/EXAMPLES.md](docs/EXAMPLES.md) contains a complete immutable inspection, a partial-evidence case, and local reproduction commands.
 
 ## Evidence boundaries
 
